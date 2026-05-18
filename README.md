@@ -27,7 +27,7 @@ operations using the JSONPlaceholder API.
 ## 📸 Screenshots
 
 ### Home Screen
-![Home Screen](screenshots/home.png/home.png)
+![Home Screen](screenshots/home.png/home.PNG)
 
 ### Add User Screen
 ![Add User Screen](screenshots/add_user1.png/add_user1.png)
@@ -46,4 +46,8 @@ operations using the JSONPlaceholder API.
 
 ### Delete Result
 ![Delete User Result](screenshots/delete_user2.png/delete_user2.png)
+
+Author 
+Melat Lemma
+UGR/2585/15
 
