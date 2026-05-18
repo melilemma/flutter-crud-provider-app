@@ -46,3 +46,9 @@ operations using the JSONPlaceholder API.
 
 ### Delete Result
 ![Delete User Result](screenshots/delete_user2/delete_user2.png)
+
+### Author
+Melat Lemma
+UGR/2585/15
+Section 2
+
