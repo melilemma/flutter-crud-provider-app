@@ -43,25 +43,27 @@ lib/
 │           └── edit_user_screen.dart
 └── main.dart
 
-## Screenshots
+
+
+## 📸 Screenshots
 
 ### Home Screen
-![Home Screen](screenshots/home.png/home.PNG)
+![Home Screen](screenshots/home.png)
 
 ### Add User Screen
-![Add User Screen](screenshots/add_user.png/add_user1.PNG)
+![Add User Screen](screenshots/add_user1.png)
 
-### Add User Screen (Filled Form)
-![Add User Screen Filled](screenshots/add_user.png/add_user2.PNG)
+### Add User Screen (Filled)
+![Add User Filled](screenshots/add_user2.png)
 
 ### Edit User Screen
-![Edit User Screen](screenshots/edit_user.png/edit_user.PNG)
+![Edit User Screen](screenshots/edit_user1.png)
 
-### Edit User Screen (Updated Form)
-![Edit User Screen Updated](screenshots/edit_user.png/edit_user2.PNG)
+### Edit User Screen (Updated)
+![Edit Updated](screenshots/edit_user2.png)
 
-### Delete User Confirmation
-![Delete User Confirmation](screenshots/delete_user.png/delete_user1.PNG)
+### Delete User
+![Delete User](screenshots/delete_user1.png)
 
-### Delete User Result
-![Delete User Result](screenshots/delete_user.png/delete_user2.PNG)
+### Delete Result
+![Delete Result](screenshots/delete_user2.png)
