@@ -24,46 +24,26 @@ operations using the JSONPlaceholder API.
 - HTTP
 - JSONPlaceholder API
 
-## 📁 Project Structure
-
-```text
-lib/
-├── core/
-│   └── api/
-│       └── api_service.dart
-├── features/
-│   └── users/
-│       ├── model/
-│       │   └── user_model.dart
-│       ├── provider/
-│       │   └── user_provider.dart
-│       └── screens/
-│           ├── user_list_screen.dart
-│           ├── add_user_screen.dart
-│           └── edit_user_screen.dart
-└── main.dart
-
-
-
 ## 📸 Screenshots
 
 ### Home Screen
-![Home Screen](screenshots/home.png)
+![Home](./screenshots/home.png)
 
 ### Add User Screen
-![Add User Screen](screenshots/add_user1.png)
+![Add 1](./screenshots/add_user1.png)
 
 ### Add User Screen (Filled)
-![Add User Filled](screenshots/add_user2.png)
+![Add 2](./screenshots/add_user2.png)
 
 ### Edit User Screen
-![Edit User Screen](screenshots/edit_user1.png)
+![Edit 1](./screenshots/edit_user1.png)
 
 ### Edit User Screen (Updated)
-![Edit Updated](screenshots/edit_user2.png)
+![Edit 2](./screenshots/edit_user2.png)
 
 ### Delete User
-![Delete User](screenshots/delete_user1.png)
+![Delete 1](./screenshots/delete_user1.png)
 
 ### Delete Result
-![Delete Result](screenshots/delete_user2.png)
+![Delete 2](./screenshots/delete_user2.png)
+
