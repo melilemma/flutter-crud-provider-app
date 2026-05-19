@@ -27,23 +27,22 @@ operations using the JSONPlaceholder API.
 ## 📸 Screenshots
 
 ### Home Screen
-![Home](./screenshots/home.png)
+![Home Screen](screenshots/home.png)
 
 ### Add User Screen
-![Add 1](./screenshots/add_user1.png)
+![Add User Screen](screenshots/add_user1.png)
 
 ### Add User Screen (Filled)
-![Add 2](./screenshots/add_user2.png)
+![Add User Screen Filled](screenshots/add_user2.png)
 
 ### Edit User Screen
-![Edit 1](./screenshots/edit_user1.png)
+![Edit User Screen](screenshots/edit_user1.png)
 
 ### Edit User Screen (Updated)
-![Edit 2](./screenshots/edit_user2.png)
+![Edit User Screen Updated](screenshots/edit_user2.png)
 
 ### Delete User
-![Delete 1](./screenshots/delete_user1.png)
+![Delete User](screenshots/delete_user1.png)
 
 ### Delete Result
-![Delete 2](./screenshots/delete_user2.png)
-
+![Delete User Result](screenshots/delete_user2.png)
