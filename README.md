@@ -27,28 +27,23 @@ operations using the JSONPlaceholder API.
 ## 📸 Screenshots
 
 ### Home Screen
-![Home Screen](screenshots/home/home.png)
+![Home Screen](screenshots/home.png/home.png)
 
 ### Add User Screen
-![Add User Screen](screenshots/add_user1/add_user1.png)
+![Add User Screen](screenshots/add_user1.png/add_user1.png)
 
 ### Add User Screen (Filled)
-![Add User Screen Filled](screenshots/add_user2/add_user2.png)
+![Add User Screen Filled](screenshots/add_user2.png/add_user2.png)
 
 ### Edit User Screen
-![Edit User Screen](screenshots/edit_user1/edit_user1.png)
+![Edit User Screen](screenshots/edit_user1.png/edit_user1.png)
 
 ### Edit User Screen (Updated)
-![Edit User Screen Updated](screenshots/edit_user2/edit_user2.png)
+![Edit User Screen Updated](screenshots/edit_user2.png/edit_user2.png)
 
 ### Delete User
-![Delete User](screenshots/delete_user1/delete_user1.png)
+![Delete User](screenshots/delete_user1.png/delete_user1.png)
 
 ### Delete Result
-![Delete User Result](screenshots/delete_user2/delete_user2.png)
-
-### Author
-Melat Lemma
-UGR/2585/15
-Section 2
+![Delete User Result](screenshots/delete_user2.png/delete_user2.png)
 
